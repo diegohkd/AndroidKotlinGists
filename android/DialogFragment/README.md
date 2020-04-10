@@ -1,1 +1,2 @@
-- [Adding Toolbar](https://gist.github.com/diegohkd/3b9fa7a92e9e1b665d3421c074fcc76b)
+[Toolbar with menu](https://gist.github.com/diegohkd/3b9fa7a92e9e1b665d3421c074fcc76b)
+[Slide animation for enter and exit animations](https://gist.github.com/diegohkd/a34f18c093ecbc62bd990f1103502500)
