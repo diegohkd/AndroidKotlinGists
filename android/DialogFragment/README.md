@@ -1,2 +1,5 @@
+- [Fullscreen with custom status bar color](https://gist.github.com/diegohkd/f7199ffd324222bd8bff215c601eb553)
+- [Full width](https://gist.github.com/diegohkd/f14094879eaa58ba568dd14d319e86ce)
 - [Slide animation for enter and exit animations](https://gist.github.com/diegohkd/a34f18c093ecbc62bd990f1103502500)
 - [Toolbar with menu](https://gist.github.com/diegohkd/3b9fa7a92e9e1b665d3421c074fcc76b)
+- [Top Gravity](https://gist.github.com/diegohkd/57bf6eed1f49ef1680313bc2de23f654)
