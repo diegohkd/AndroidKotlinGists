@@ -1,2 +1,3 @@
 - [DialogFragment](DialogFragment/README.md)
+- [Spinner](Spinner/README.md)
 - [Toolbar](Toolbar/README.md)
